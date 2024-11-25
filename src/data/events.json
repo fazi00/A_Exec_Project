@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Underground Bull Riders Membership",
+    "location": "Bull Ring",
+    "date": "Jan 1 - Dec 31, 2...",
+    "image": "/bull_person.jpg"
+  },
+
+  {
+    "id": 2,
+    "title": "Underground Bull Riders Membership",
+    "location": "Bull Ring",
+    "date": "Jan 1 - Dec 31, 2...",
+    "image": "/bull_person.jpg"
+  },
+
+  {
+    "id": 3,
+    "title": "Underground Bull Riders Membership",
+    "location": "Bull Ring",
+    "date": "Jan 1 - Dec 31, 2...",
+    "image": "/bull_person.jpg"
+  },
+
+  {
+    "id": 4,
+    "title": "Underground Bull Riders Membership",
+    "location": "Bull Ring",
+    "date": "Jan 1 - Dec 31, 2...",
+    "image": "/bull_person.jpg"
+  }
+]
+
+
